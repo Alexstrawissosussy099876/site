@@ -1,0 +1,8 @@
+print("A BRIEF OVERVIEW OF WW1")
+print("world war one was fought between the years of 1914 and 1918.")
+print("It was probably one of the most brutal wars ever fought.")
+print("The weapons and machinary used in the war were so advanced, all it took was a shot and you were dead.")
+print("trenches were one of the key things in WW1")
+print("it greatly increased the safety of the soldiers.")
+print("there were many more factors and areas of WW1 that we will cover at a later point.")
+print("now return to the powerpoint")
