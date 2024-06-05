@@ -1,3 +1,4 @@
-<p>I have made a nice little web page on short round</p>
-<p>I will soon be making a webpage called alxs.html which will contain lots of interesting stuff.</p>
-<p>Thanks&nbsp;</p>
+<p>hi!</p>
+<p>I have finished the first edition of ALXS.Html.</p>
+<p>please do take the time to have a look</p>
+<p>thanks!</p>
